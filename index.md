@@ -1,6 +1,6 @@
 # Sneakers Sustainable Supply Chain 
 
-![Shoes](01.jpeg)
+! [SustainableShoes](01.jpeg)
 
 ## The company
 
