@@ -10,7 +10,7 @@ Veja is a French fashion brand created in 2004 with the objective of producing s
 Year after year, Veja took strategic decisions to make their whole supply chain sustainable.
 The idea behind a pair of VEJA: standing up with one foot in design and the other in social responsibility.
 
-[Here is the link for more informations:] (https://www.veja-store.com)
+[Here is the link for more informations:](https://www.veja-store.com)
 
 ### Their engagement
 
