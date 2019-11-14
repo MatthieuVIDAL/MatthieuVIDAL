@@ -10,4 +10,8 @@ Veja is a French fashion brand created in 2004 with the objective of producing s
 Year after year, Veja took strategic decisions to make their whole supply chain sustainable.
 The idea behind a pair of VEJA: standing up with one foot in design and the other in social responsibility.
 
-Here is the link for more informations: (https://www.veja-store.com)
+[Here is the link for more informations:] (https://www.veja-store.com)
+
+### Their engagement
+
+All the raw materials used by Veja comes from locally owned sustainable farms. Rather than from big intensive cotton farms, the cotton is organic and comes from responsible farms in Peru and in Brazil that use no chemicals and respect the soils. They chose raw materials suppliers that are as close as possible to the production facilities in Brazil in order to reduce the transport carbon footprint. that respects both the local employees and the environment. All the cotton farms are fair trade certified which means that the cotton producers and workers receives a fair share of the final price. In order to release the pressure on their suppliers that are locally owned corporation or association, Veja buys when it’s possible the cotton in advance and they purchase it at non-market correlated price. For example, in 2018, Veja paid the cotton in average 63% more than the average market price. It also ensures to the local producers more stability with a long run collaboration.
