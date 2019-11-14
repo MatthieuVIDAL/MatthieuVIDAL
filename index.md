@@ -1,6 +1,6 @@
 # Sneakers Sustainable Supply Chain 
 
-![Alt text](https://cdn.pixabay.com/photo/2017/08/05/13/22/sea-2583561_1280.jpg)
+![Alt text](01.jpg)
 
 **Today we are showing you through the example of VEJA how sneakers brand can become more sustainable.**
 
