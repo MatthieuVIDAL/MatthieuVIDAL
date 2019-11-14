@@ -1,4 +1,4 @@
-# Sneakers Sustainable Supply Chain 
+[center]# Sneakers Sustainable Supply Chain[/center]
 
 ![Alt text](https://cdn.pixabay.com/photo/2017/08/05/13/22/sea-2583561_1280.jpg)
 
